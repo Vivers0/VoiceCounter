@@ -8,8 +8,6 @@ A script that displays the number of people in the name of a particular channel.
 ```cd VoiceCounter```
 - Install libraries
 ```npm install```
-- Enter data in **src/config.json**
-- Compile
-```npm run build```
+- Enter data in **config.json**
 - Start!
 ```npm start```
